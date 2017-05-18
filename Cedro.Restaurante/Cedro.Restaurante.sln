@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{6E28B9A8-01C7-4D51-A51F-47DE90F4CE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.Dominio", "Cedro.Restaurante.Dominio\Cedro.Restaurante.Dominio.csproj", "{8F55DC5E-C14E-4644-87B7-305B37D8FFB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositorios", "Repositorios", "{B5994FB5-C83B-42A2-B306-149210ED81A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Acesso a dados", "Acesso a dados", "{D0812B1E-FBD2-4A36-9CFF-9B7E29ABC0F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.Repositorios.Comum", "Cedro.Restaurante.Repositorios.Comum\Cedro.Restaurante.Repositorios.Comum.csproj", "{3BA333DA-37CB-464B-B80D-3A5FF35ACC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.Repositorios.Comum.Entity", "Cedro.Restaurante.Repositorios.Comum.Entity\Cedro.Restaurante.Repositorios.Comum.Entity.csproj", "{91FE4BCD-5BE5-446E-8F07-DBB0F89C77FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.Repositorios.Entity", "Cedro.Restaurante.Repositorios.Entity\Cedro.Restaurante.Repositorios.Entity.csproj", "{D3275635-9AB6-4A4F-B73F-E37180E2A6F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servico", "Servico", "{EA65D2E6-25DB-4FD4-8E70-C7FDD8DE6153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.Service", "Cedro.Restaurante.Service\Cedro.Restaurante.Service.csproj", "{0600DC05-BEA1-4955-A510-F36B1C9813A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.AcessoDados.Entity", "Cedro.Restaurante.AcessoDados.Entity\Cedro.Restaurante.AcessoDados.Entity.csproj", "{BD87AFD4-277C-4A3A-8A00-72139F17FB16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restaurante.Comum.Entity", "Cedro.Restaurante.Comum.Entity\Cedro.Restaurante.Comum.Entity.csproj", "{71DD6EEC-F980-4425-832E-A40303C93AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F55DC5E-C14E-4644-87B7-305B37D8FFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F55DC5E-C14E-4644-87B7-305B37D8FFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F55DC5E-C14E-4644-87B7-305B37D8FFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F55DC5E-C14E-4644-87B7-305B37D8FFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA333DA-37CB-464B-B80D-3A5FF35ACC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA333DA-37CB-464B-B80D-3A5FF35ACC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA333DA-37CB-464B-B80D-3A5FF35ACC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA333DA-37CB-464B-B80D-3A5FF35ACC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FE4BCD-5BE5-446E-8F07-DBB0F89C77FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FE4BCD-5BE5-446E-8F07-DBB0F89C77FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FE4BCD-5BE5-446E-8F07-DBB0F89C77FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FE4BCD-5BE5-446E-8F07-DBB0F89C77FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3275635-9AB6-4A4F-B73F-E37180E2A6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3275635-9AB6-4A4F-B73F-E37180E2A6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3275635-9AB6-4A4F-B73F-E37180E2A6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3275635-9AB6-4A4F-B73F-E37180E2A6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0600DC05-BEA1-4955-A510-F36B1C9813A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0600DC05-BEA1-4955-A510-F36B1C9813A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0600DC05-BEA1-4955-A510-F36B1C9813A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0600DC05-BEA1-4955-A510-F36B1C9813A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD87AFD4-277C-4A3A-8A00-72139F17FB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD87AFD4-277C-4A3A-8A00-72139F17FB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD87AFD4-277C-4A3A-8A00-72139F17FB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD87AFD4-277C-4A3A-8A00-72139F17FB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DD6EEC-F980-4425-832E-A40303C93AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DD6EEC-F980-4425-832E-A40303C93AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DD6EEC-F980-4425-832E-A40303C93AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DD6EEC-F980-4425-832E-A40303C93AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F55DC5E-C14E-4644-87B7-305B37D8FFB1} = {6E28B9A8-01C7-4D51-A51F-47DE90F4CE18}
+		{3BA333DA-37CB-464B-B80D-3A5FF35ACC88} = {B5994FB5-C83B-42A2-B306-149210ED81A5}
+		{91FE4BCD-5BE5-446E-8F07-DBB0F89C77FB} = {B5994FB5-C83B-42A2-B306-149210ED81A5}
+		{D3275635-9AB6-4A4F-B73F-E37180E2A6F9} = {B5994FB5-C83B-42A2-B306-149210ED81A5}
+		{0600DC05-BEA1-4955-A510-F36B1C9813A3} = {EA65D2E6-25DB-4FD4-8E70-C7FDD8DE6153}
+		{BD87AFD4-277C-4A3A-8A00-72139F17FB16} = {D0812B1E-FBD2-4A36-9CFF-9B7E29ABC0F9}
+		{71DD6EEC-F980-4425-832E-A40303C93AA0} = {D0812B1E-FBD2-4A36-9CFF-9B7E29ABC0F9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Dominio\bin\Debug\Cedro.Restaurante.Dominio.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Dominio\bin\Debug\Cedro.Restaurante.Dominio.pdb
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Dominio\obj\Debug\Cedro.Restaurante.Dominio.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Dominio\obj\Debug\Cedro.Restaurante.Dominio.pdb

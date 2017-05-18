@@ -1,0 +1,17 @@
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.AcessoDados.Entity.dll.config
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.AcessoDados.Entity.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.AcessoDados.Entity.pdb
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.Comum.Entity.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.Dominio.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.Comum.Entity.pdb
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\Cedro.Restaurante.Dominio.pdb
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\obj\Debug\Cedro.Restaurante.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\obj\Debug\Cedro.Restaurante.AcessoDados.Entity.Migrations.MigracaoInicial.resources
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\obj\Debug\Cedro.Restaurante.AcessoDados.Entity.Migrations.AdicaoPratos.resources
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\obj\Debug\Cedro.Restaurante.AcessoDados.Entity.csproj.GenerateResource.Cache
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\obj\Debug\Cedro.Restaurante.AcessoDados.Entity.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.AcessoDados.Entity\obj\Debug\Cedro.Restaurante.AcessoDados.Entity.pdb

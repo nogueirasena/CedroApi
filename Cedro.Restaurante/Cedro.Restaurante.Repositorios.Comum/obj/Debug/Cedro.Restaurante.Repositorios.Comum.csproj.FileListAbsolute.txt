@@ -1,0 +1,5 @@
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Repositorios.Comum\bin\Debug\Cedro.Restaurante.Repositorios.Comum.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Repositorios.Comum\bin\Debug\Cedro.Restaurante.Repositorios.Comum.pdb
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Repositorios.Comum\obj\Debug\Cedro.Restaurante.Repositorios.Comum.csprojResolveAssemblyReference.cache
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Repositorios.Comum\obj\Debug\Cedro.Restaurante.Repositorios.Comum.dll
+C:\Users\HEBERTPC\Source\Repo2\Cedro.Restaurante\Cedro.Restaurante.Repositorios.Comum\obj\Debug\Cedro.Restaurante.Repositorios.Comum.pdb
